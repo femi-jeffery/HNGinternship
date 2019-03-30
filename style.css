@@ -7,4 +7,12 @@
 
  h1{
 	padding-left: 130px;
+	color:#fff;
+	font-weight: bold;
 }
+
+ul{
+	list-style-type: none;
+
+}
+
